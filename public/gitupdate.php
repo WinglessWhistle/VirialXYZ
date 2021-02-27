@@ -1,5 +1,5 @@
 <?php
-require(__DIR__ . "/vendor/autoload.php");
+require("/home/WinglessWhistle/VirialXYZ/src/lib/githubwebhookthing.php");
 
 use GitHubWebhook\Handler;
 
